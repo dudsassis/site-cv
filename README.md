@@ -1,4 +1,4 @@
-# site-cv
+# Site-CV
 
 I created this site for my own knowledge and also to train my English and show a little of what I know how to do, this site will show a little about myself and everything I've done so far
 
